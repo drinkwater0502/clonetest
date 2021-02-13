@@ -1,6 +1,18 @@
 body {
-    background-color: #A6B1E1;
+    background-color: #E5DADA;
 }
+
 h1 {
-    color: #001A23;
+    color: black;
+}
+
+nav {
+    background-color: #E5DADA;
+    border: 2px solid black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+
+#main {
+    max-width: 600px;
 }
