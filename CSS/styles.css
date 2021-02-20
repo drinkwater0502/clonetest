@@ -11,8 +11,14 @@ nav {
     border: 2px solid black;
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
+    position: sticky;
 }
 
 #main {
     max-width: 600px;
+}
+
+img {
+    float: left;
+    height: 500px
 }
