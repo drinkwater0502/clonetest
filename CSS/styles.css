@@ -14,6 +14,16 @@ nav {
     position: sticky;
 }
 
+.ulnavbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.linavbar {
+    display: inline;
+}
+
 #main {
     max-width: 600px;
 }
